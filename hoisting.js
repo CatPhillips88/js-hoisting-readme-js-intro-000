@@ -28,4 +28,3 @@ function sayMyName() {
     var name = "Kristin";
   }
 }
-
